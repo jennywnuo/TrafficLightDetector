@@ -1,6 +1,6 @@
 # TrafficLightDetector
-Programmer: Jenny Wang 
-AP Computer Science Applications, Period 2, Kaehms
+*Programmer: Jenny Wang 
+*AP Computer Science Applications, Period 2, Kaehms
 
 The following algorithm is a prototype of our desired product for the Entrepreneurship Competition. 
 
